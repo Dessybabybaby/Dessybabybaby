@@ -2,8 +2,6 @@
 
 **Securing infrastructure. AI operating. Zero-trust framework. Communicating security**
 
-`Cybersecurity` · `IT Operations` · `Automation` · `SOC Analysis` · `Communications`
-
 ---
 
 ## Currently focused on
